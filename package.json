@@ -1,0 +1,27 @@
+{
+  "dependencies": {
+    "caca": "^4.3.0",
+    "express": "^5.2.1"
+  },
+  "name": "cours_nodejs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js",
+    "dev" : "node --watch server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/adrienescoffier/cours_nodejs.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "bugs": {
+    "url": "https://github.com/adrienescoffier/cours_nodejs/issues"
+  },
+  "homepage": "https://github.com/adrienescoffier/cours_nodejs#readme"
+}
